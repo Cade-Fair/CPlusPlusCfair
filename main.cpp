@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <limits>
 
 // A. Class specification
 class Player {
